@@ -1,0 +1,1473 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Ve",
+				"Vector3d"
+			],
+			[
+				"cp",
+				"copy_extent"
+			],
+			[
+				"bond",
+				"bonds"
+			],
+			[
+				"si",
+				"sites"
+			],
+			[
+				"new",
+				"new_sites"
+			],
+			[
+				"uni",
+				"unitcell"
+			],
+			[
+				"src",
+				"src_offset"
+			],
+			[
+				"res",
+				"reset_tgt_offset"
+			],
+			[
+				"sr",
+				"src_id"
+			],
+			[
+				"br",
+				"bravindex_offset"
+			],
+			[
+				"cel",
+				"cell_id"
+			],
+			[
+				"bravindex_",
+				"bravindex_offset"
+			],
+			[
+				"co",
+				"coord_offset"
+			],
+			[
+				"coo",
+				"coord_"
+			],
+			[
+				"ce",
+				"cell"
+			],
+			[
+				"map",
+				"mapped_site_id"
+			],
+			[
+				"boun",
+				"boundary_wrap"
+			],
+			[
+				"cell",
+				"cell_idx"
+			],
+			[
+				"con",
+				"connect_bond"
+			],
+			[
+				"bra",
+				"bravindex"
+			],
+			[
+				"tg",
+				"tgt_"
+			],
+			[
+				"ng",
+				"ngb_"
+			],
+			[
+				"bo",
+				"bonds"
+			],
+			[
+				"tran",
+				"translated_cell"
+			],
+			[
+				"id",
+				"id_offset"
+			],
+			[
+				"sta",
+				"static_cast"
+			],
+			[
+				"dim",
+				"dim3"
+			],
+			[
+				"ne",
+				"new_idx"
+			],
+			[
+				"cop",
+				"copy_extent"
+			],
+			[
+				"un",
+				"unsigned"
+			],
+			[
+				"brav",
+				"bravindex"
+			],
+			[
+				"site",
+				"sites"
+			],
+			[
+				"V",
+				"Vector3d"
+			],
+			[
+				"Vec",
+				"Vector3i"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"src_",
+				"src_offset"
+			],
+			[
+				"vec",
+				"vector	std::vector"
+			],
+			[
+				"ve",
+				"vector	std::vector"
+			],
+			[
+				"u",
+				"ucell"
+			],
+			[
+				"num",
+				"num_site"
+			],
+			[
+				"unitcell",
+				"unitcell_t"
+			],
+			[
+				"Br",
+				"BravaisIdx"
+			],
+			[
+				"nex",
+				"next_index"
+			],
+			[
+				"symm",
+				"symm_dim2"
+			],
+			[
+				"mat",
+				"matrix"
+			],
+			[
+				"rot",
+				"rot_mat"
+			],
+			[
+				"symm_",
+				"symm_unitcell"
+			],
+			[
+				"max",
+				"max_neighb_val"
+			],
+			[
+				"basis_",
+				"basis_a1"
+			],
+			[
+				"sym",
+				"symm_dim1"
+			],
+			[
+				"per",
+				"periodic"
+			],
+			[
+				"sy",
+				"symm_dim1"
+			],
+			[
+				"off",
+				"offset"
+			],
+			[
+				"tgt",
+				"tgt_offset"
+			],
+			[
+				"cons",
+				"const"
+			],
+			[
+				"b",
+				"bond"
+			],
+			[
+				"unit",
+				"unitcell_t"
+			],
+			[
+				"latt",
+				"lattice_type"
+			],
+			[
+				"t",
+				"to_upper"
+			],
+			[
+				"bounda",
+				"boundary_type"
+			],
+			[
+				"set_",
+				"set_size"
+			],
+			[
+				"st",
+				"str_val"
+			],
+			[
+				"str",
+				"str_val"
+			],
+			[
+				"bc",
+				"bc2"
+			],
+			[
+				"lsi",
+				"lsize3"
+			],
+			[
+				"ls",
+				"lsize1"
+			],
+			[
+				"at",
+				"atomid"
+			],
+			[
+				"o",
+				"offset"
+			],
+			[
+				"sit",
+				"site"
+			],
+			[
+				"sie",
+				"site_cell_coord"
+			],
+			[
+				"ty",
+				"site_type"
+			],
+			[
+				"ns",
+				"nsites"
+			],
+			[
+				"ru",
+				"run_test_code"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"para",
+				"parameter"
+			],
+			[
+				"se",
+				"second"
+			],
+			[
+				"set",
+				"set_value"
+			],
+			[
+				"size",
+				"task_size"
+			],
+			[
+				"th",
+				"theTask"
+			],
+			[
+				"ta",
+				"task_size"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"task",
+				"task_size"
+			],
+			[
+				"read_para",
+				"read_parameters"
+			],
+			[
+				"simle",
+				"simple_task"
+			],
+			[
+				"simple",
+				"simple_task"
+			],
+			[
+				"do",
+				"dostep"
+			],
+			[
+				"s",
+				"simple_task"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"param",
+				"parameter"
+			],
+			[
+				"be",
+				"begin"
+			],
+			[
+				"Pa",
+				"parameters"
+			],
+			[
+				"vau",
+				"value_type"
+			],
+			[
+				"value",
+				"value_type"
+			],
+			[
+				"bool",
+				"bool_val"
+			],
+			[
+				"boo",
+				"boo_param"
+			],
+			[
+				"boo_",
+				"boo_params"
+			],
+			[
+				"is",
+				"is_const"
+			],
+			[
+				"tas",
+				"task_id"
+			],
+			[
+				"In",
+				"InputParameter"
+			],
+			[
+				"Job",
+				"JobParams"
+			],
+			[
+				"par",
+				"param_vec"
+			],
+			[
+				"key",
+				"key_ptype_pair"
+			],
+			[
+				"get",
+				"get_task_param"
+			],
+			[
+				"n_",
+				"n_params"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"lin",
+				"line_no"
+			],
+			[
+				"end",
+				"endl"
+			],
+			[
+				"inpu",
+				"input_error"
+			],
+			[
+				"ba",
+				"bad_input"
+			],
+			[
+				"ar",
+				"argc"
+			],
+			[
+				"dist",
+				"dist_count"
+			],
+			[
+				"fo",
+				"fout"
+			],
+			[
+				"tvg",
+				"tavg_proby_dist"
+			],
+			[
+				"en",
+				"ensemble_avg"
+			],
+			[
+				"mag",
+				"mag_avg"
+			],
+			[
+				"ma",
+				"mag_avg"
+			],
+			[
+				"ene",
+				"energy_avg"
+			],
+			[
+				"ini",
+				"init_observables"
+			],
+			[
+				"int",
+				"init_observables"
+			],
+			[
+				"pro",
+				"proby_dist"
+			],
+			[
+				"enr",
+				"energy_tics"
+			],
+			[
+				"nn",
+				"nn_site"
+			],
+			[
+				"ge",
+				"get_energy"
+			],
+			[
+				"job",
+				"jobparms"
+			],
+			[
+				"pa",
+				"param_t"
+			],
+			[
+				"start",
+				"startv"
+			],
+			[
+				"firs",
+				"find_first_of"
+			],
+			[
+				"po",
+				"pop_back"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "/*---------------------------------------------------------------------------\n* Copyright (C) 2015-2016 by Amal Medhi <amedhi@iisertvm.ac.in>.\n* All rights reserved.\n* Date:   2016-01-11 16:33:51\n* Last Modified by:   Amal Medhi, amedhi@macbook\n* Last Modified time: 2016-02-23 00:23:06\n*----------------------------------------------------------------------------*/\n#include <iostream>\n#include <string>\n#include <stdexcept>\n#include \"../scheduler/task.h\"\n#include \"../constants.h\"\n#include <Eigen/Dense>\n\nnamespace lattice {\n\n/*---------------lattice types-----------------*/\nenum class lattice_type {\n  UNDEFINED, SQUARE, CHAIN\n};\n\n/*---------------Lattice site class-----------------*/\nusing Vector3i = Eigen::Vector3i;\nusing Vector3d = Eigen::Vector3d;\n//using BrvaisIdx = Eigen::Matrix<unsigned, 3, 1>;\n\nclass Site \n{\npublic:\n  // ctors\n  Site() {}\n  Site(const int& type, const int& atomid, const Vector3i& bravindex, const Vector3d& coord, \n    const Vector3d& cell_coord);\n  ~Site() {}\n  // setter functions\n  void static reset_count(void) { num_site=0; }\n  void reset_bravindex(const Vector3i& idx) { bravindex_=idx; }\n  void reset_coord(const Vector3d& v) { coord_=v; }\n  void reset_cell_coord(const Vector3d& v) { cell_coord_=v; }\n  void translate_by(const int& id_offset, const Vector3i& bravindex_offset, const Vector3d& coord_offset); \n\n  // getter functions\n  unsigned id(void) const {return id_;}\n  unsigned type(void) const {return type_;}\n  unsigned atomid(void) const {return atomid_;}\n  Vector3i bravindex(void) const { return bravindex_; }\n  Vector3d coord(void) const {return coord_;}\n  // friends\n  friend std::ostream& operator<<(std::ostream& os, const Site& site);\nprivate:\n  static unsigned num_site;\n  unsigned id_ {0};\n  unsigned type_ {0};\n  unsigned atomid_ {0};\n  Vector3i bravindex_ {Vector3i(0, 0, 0)};\n  Vector3d coord_ {Vector3d(0.0, 0.0, 0.0)};\n  Vector3d cell_coord_ {Vector3d(0.0, 0.0, 0.0)};\n};\n\n/*---------------Lattice bond class-----------------*/\nclass Bond \n{\npublic:\n  // ctors\n  Bond() {}\n  Bond(const unsigned& type, const unsigned& ngb, const Vector3i& bravindex, const unsigned& src_id, \n    const Vector3i& src_offset, const unsigned& tgt_id, const Vector3i& tgt_offset);\n  ~Bond() {}\n  // setter functions\n  void static reset_count(void) { num_bond=0; }\n  void reset_src_offset(const Vector3i& idx) { src_offset_=idx; }\n  void reset_tgt_offset(const Vector3i& idx) { tgt_offset_=idx; }\n  void reset_bravindex(const Vector3i& idx) { bravindex_=idx; }\n  void shift_target_ids(const int& id_offset) { src_ += id_offset; tgt_ += id_offset; }\n  void translate_by(const Vector3i& bravindex_offset) { bravindex_ += bravindex_offset; } \n  void connect(const int& src_id, const Vector3i& src_offset, const int& tgt_id, const Vector3i& tgt_offset);\n  // getter functions\n  unsigned id(void) const { return id_; }\n  unsigned src_id(void) const { return src_; }\n  unsigned tgt_id(void) const { return tgt_; }\n  Vector3i bravindex(void) const { return bravindex_; }\n  Vector3i src_offset(void) const { return src_offset_; }\n  Vector3i tgt_offset(void) const { return tgt_offset_; }\n  // friends\n  friend std::ostream& operator<<(std::ostream& os, const Bond& bond);\nprivate:\n  static unsigned num_bond;\n  unsigned id_ {0};\n  unsigned type_ {0};\n  unsigned ngb_ {0};\n  unsigned src_ {0}; \n  unsigned tgt_ {0}; \n  Vector3i bravindex_ {Vector3i(0, 0, 0)};\n  Vector3i src_offset_ {Vector3i(0, 0, 0)};\n  Vector3i tgt_offset_ {Vector3i(0, 0, 0)};\n};\n\n\n/*---------------Unitcell class-----------------*/\nclass Unitcell \n{\npublic:\n  // ctors\n  Unitcell() {}\n  ~Unitcell() {}\n  // setter functions\n  void clear(void); \n  void set_basis(const Vector3d& av1, const Vector3d& av2, const Vector3d& av3);\n  int add_site(const Site& s) { sites.push_back(s); return sites.back().id(); }\n  int add_site(const unsigned& type, const unsigned& atomid, const Vector3d& site_coord); \n  int add_site(const Site& s, const Vector3i& bravindex, const Vector3d& cell_coord);\n  int add_bond(const Bond& b) { bonds.push_back(b); return bonds.back().id(); }\n  int add_bond(const unsigned& type, const unsigned& ngb, const unsigned& src_id, const Vector3i& src_offset,\n    const unsigned& tgt_id, const Vector3i& tgt_offset); \n  int add_bond(const Bond& bond, const Vector3i& src_offset, const Vector3i& tgt_offset);\n  void reset_a1(const Vector3d& av1) { a1=av1; }\n  void reset_a2(const Vector3d& av2) { a2=av2; }\n  void reset_a3(const Vector3d& av3) { a2=av3; }\n  void reset(const std::vector<Site>& new_sites, const std::vector<Bond>& new_bonds); \n  // getter functions\n  Vector3d vector_a1(void) const { return a1; }\n  Vector3d vector_a2(void) const { return a2; }\n  Vector3d vector_a3(void) const { return a3; }\n  Vector3i bravindex(void) const { return bravindex_; }\n  Vector3d coord(void) const {return coord_;}\n  unsigned num_site(void) const { return sites.size(); }\n  unsigned num_bond(void) const { return bonds.size(); }\n  void translate_by(const Vector3i& bravindex_offset, const int& cell_id_offset);\n  void rotate_by(const Eigen::Matrix3d& matrix);\n  Site site(const unsigned& i) const { return sites[i]; }\n  Bond bond(const unsigned& i) const { return bonds[i]; }\nprivate:\n  int id {0};\n  int max_siteype {0};\n  int max_bondype {0};\n  int max_neighb_val {0};\n  Vector3d a1 {Vector3d(0.0, 0.0, 0.0)};\n  Vector3d a2 {Vector3d(0.0, 0.0, 0.0)};\n  Vector3d a3 {Vector3d(0.0, 0.0, 0.0)};\n  std::vector<Site> sites;\n  std::vector<Bond> bonds;\n  Vector3i bravindex_ {Vector3i(0, 0, 0)};\n  Vector3d coord_ {Vector3d(0.0, 0.0, 0.0)};\n};\n\n/*---------------spatial dimension type-----------------*/\nenum class boundary_type {open, periodic, antiperiodic};\n\n/*---------------Lattcie class defintion-----------------*/\nclass Lattice \n{\npublic:\n  // ctors\n  Lattice() {}\n  Lattice(const input::Parameters& parms) { construct(parms); }\n  ~Lattice() {}\n  // setter functions\n  int construct(const input::Parameters& parms);\n  // getter functions\n\n  // other methods \n  Vector3i boundary_wrap(const Vector3i& cell_idx) const;\n  Vector3i get_next_bravindex(const Vector3i& current_index) const;\n  Unitcell get_translated_cell(const Vector3i& bravindex_offset) const;\n  int mapped_site_id(const unsigned& local_id, const Vector3i& bravindex) const;\n  bool connect_bond(Bond& bond) const;\nprivate:\n  struct Extent {unsigned size; boundary_type bc; boundary_type periodicity;};\n  enum Dimension {dim1, dim2, dim3};\n  lattice_type id {lattice_type::UNDEFINED};\n  std::string name {\"\"};\n\n  // unitcell & lattice dimensions\n  Unitcell unitcell;\n  Extent extent[3] = {Extent{1, boundary_type::open, boundary_type::open}, \n                      Extent{1, boundary_type::open, boundary_type::open},\n                      Extent{1, boundary_type::open, boundary_type::open}\n                     };\n\n  // copy of initial lattice dimensions\n  Extent copy_extent[3] {Extent{1, boundary_type::open, boundary_type::open}, \n                         Extent{1, boundary_type::open, boundary_type::open},\n                         Extent{1, boundary_type::open, boundary_type::open}\n                        };\n  \n  // number of unit cells in total and in one layer (for symmetrized lattice)\n  unsigned num_total_cells {1};\n  unsigned num_layer_cells {1};\n\n  // helper functions\n  int define(void); \n  int finalize(void); \n  boundary_type boundary_condition(std::string& bc) const;\n  Eigen::Matrix3d rotation_matrix(const Eigen::Vector3d& r, const Eigen::Vector3d& r_prime);\n};\n\n\n\n} // end namespace lattice\n\n\n\n\n\n\n\n\n\n",
+			"file": "lattice/lattice.h",
+			"file_size": 7502,
+			"file_write_time": 1456167186000000,
+			"settings":
+			{
+				"buffer_size": 7502,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "/*---------------------------------------------------------------------------\n* Copyright (C) 2015-2016 by Amal Medhi <amedhi@iisertvm.ac.in>.\n* All rights reserved.\n* Date:   2016-01-17 21:32:15\n* Last Modified by:   Amal Medhi, amedhi@macbook\n* Last Modified time: 2016-02-23 00:26:26\n*----------------------------------------------------------------------------*/\n#include <iomanip>\n#include \"lattice.h\"\n#include <boost/algorithm/string.hpp>\n\nnamespace lattice {\n\n/*void check_latticelibrary(void)\n{\n  int type, atomid;\n  Vector3d coord(0, 1, 0);\n  Site site(2, 1, Vector3d(1, 0, 1));\n  std::cout << site << \"\\n\";\n  Unitcell unitcell;\n  unitcell.add_site(type=1, atomid=2, coord=Vector3d(1, 0, 1));\n}*/\n\n/*---------------'site' class-----------------*/\nunsigned Site::num_site = 0;\n\n// ctor\nSite::Site(const int& type, const int& atomid, const Vector3i& bravindex, const Vector3d& coord, \n  const Vector3d& cell_coord)\n{\n  if (type < 0) throw std::invalid_argument(\"error: Site:: argument 'type' can not be negative\");\n  if (atomid < 0) throw std::invalid_argument(\"error: Site:: argument 'atomid' can not be negative\");\n  id_ = num_site++;\n  type_ = type;\n  atomid_ = atomid;\n  bravindex_ = bravindex_;\n  coord_ = coord;\n  cell_coord_ = cell_coord_;\n}\n\nvoid Site::translate_by(const int& id_offset, const Vector3i& bravindex_offset, const Vector3d& coord_offset)\n{\n  id_ += id_offset;\n  bravindex_ += bravindex_offset; \n  coord_ += coord_offset; \n  cell_coord_ += coord_offset; \n}\n/*Site::Site(const Site& site, const Vector3i& offset)\n{\n  id_ = site.id_;\n  type_ = site.type_;\n  atomid_ = site.atomid_;\n  bravindex_ = offset;\n  coord_ = site.coord_;\n  cell_coord_ = site.cell_coord_;\n}*/\n\n// friends\nstd::ostream& operator<<(std::ostream& os, const Site& s) \n{\n  os << std::fixed << std::showpoint;\n  os << \"site = \" << s.id_ << \", type = \" << s.type_ << \", atomid = \" << s.atomid_ << \"\\n\";\n  os << \"bravindex = (\" << s.bravindex_(0) << \", \" << s.bravindex_(1) << \", \" << s.bravindex_(2) << \")\\n\";\n  os << \"coord = (\" << s.coord_(0) << \", \" << s.coord_(1) << \", \" << s.coord_(2) << \")\\n\";\n  os << \"cell_coord = (\" << s.cell_coord_(0) << \", \" << s.cell_coord_(1) << \", \" << s.cell_coord_(2) << \")\\n\";\n  return os;\n}\n\n/*---------------'bond' class-----------------*/\nunsigned Bond::num_bond = 0;\n/*Bond::Bond(const int& type, const int& ngb, const Site& src, const Site& tgt)\n{\n  if (type < 0) throw std::invalid_argument(\"error: Bond:: argument 'type' can not be negative\");\n  if (ngb < 1) throw std::invalid_argument(\"error: Bond:: argument 'ngb' can not be less than 1\");\n  if (type < 0) throw std::invalid_argument(\"error: Bond:: argument 'type' can not be negative\");\n  id_ = num_bond++;\n  type_ = type;\n  ngb_ = ngb;\n  src_ = src;\n  tgt_ = tgt;\n  vector_ = tgt.coord() - src.coord();\n}*/\nBond::Bond(const unsigned& type, const unsigned& ngb, const Vector3i& bravindex, const unsigned& src_id, \n    const Vector3i& src_offset, const unsigned& tgt_id, const Vector3i& tgt_offset)\n{\n  id_ = num_bond++;\n  type_ = type;\n  ngb_ = ngb;\n  src_ = src_id;\n  tgt_ = tgt_id;\n  bravindex_ = bravindex;\n  src_offset_ = src_offset;\n  tgt_offset_ = tgt_offset;\n}\n\nvoid Bond::connect(const int& src_id, const Vector3i& src_offset, const int& tgt_id, const Vector3i& tgt_offset)\n{\n  src_ = src_id;\n  src_offset_ = src_offset;\n  tgt_ = tgt_id;\n  tgt_offset_ = tgt_offset;\n}\n\n// friends\nstd::ostream& operator<<(std::ostream& os, const Bond& b) \n{\n  os << std::fixed << std::showpoint;\n  os << \"bond: \" << b.src_ << \" (\" << b.src_offset_(0) << \",\" <<  b.src_offset_(1) << \",\"\n    << b.src_offset_(2) << \") --- \" << b.tgt_ << \" (\" << b.tgt_offset_(0) << \",\" \n    <<  b.tgt_offset_(1) << \",\" << b.tgt_offset_(2) << \")\" << std::endl;\n  os << \"id = \" << b.id_ << \", type = \" << b.type_ << \", ngb = \" << b.ngb_ << \"\\n\";\n  return os;\n}\n\n/*---------------Unitcell class-----------------*/\nvoid Unitcell::clear(void) \n{ \n  max_siteype=0; max_bondype=0; max_neighb_val=0; sites.clear(); bonds.clear(); \n  Site::reset_count(); \n  Bond::reset_count(); \n  a1 = Vector3d(0.0, 0.0, 0.0); \n  a2 = Vector3d(0.0, 0.0, 0.0); \n  a3 = Vector3d(0.0, 0.0, 0.0); \n}\n\nvoid Unitcell::set_basis(const Vector3d& av1, const Vector3d& av2, const Vector3d& av3)\n{ \n  a1 = av1; a2 = av2; a3 = av3;\n}\n\nint Unitcell::add_site(const unsigned& type, const unsigned& atomid, const Vector3d& site_coord)\n{\n  sites.push_back(Site(type-1, atomid-1, bravindex(), site_coord, coord())); \n  return sites.back().id(); \n}\n\nint Unitcell::add_site(const Site& s, const Vector3i& bravindex, const Vector3d& cell_coord)\n{\n  sites.push_back(s); \n  sites.back().reset_bravindex(bravindex);\n  sites.back().reset_cell_coord(cell_coord);\n  return sites.back().id();\n}\n\nint Unitcell::add_bond(const unsigned& type, const unsigned& ngb, const unsigned& src_id, \n  const Vector3i& src_offset, const unsigned& tgt_id, const Vector3i& tgt_offset)\n{\n  if (src_id > sites.size()) throw std::range_error(\"error: add_atom:: 'src' site does not exist\");\n  if (tgt_id > sites.size()) throw std::range_error(\"error: add_atom:: 'tgt' site does not exist\");\n  bonds.push_back(Bond(type-1, ngb, bravindex(), src_id-1, src_offset, tgt_id-1, tgt_offset));\n  return bonds.back().id();\n}\n\nint Unitcell::add_bond(const Bond& bond, const Vector3i& src_offset, const Vector3i& tgt_offset)\n{\n  //bonds.push_back(Bond(bond.type(), bond.ngb(), bond.src_id(), src_offset, tgt_id, tgt_offset, vector));\n  bonds.push_back(bond);\n  bonds.back().reset_src_offset(src_offset);\n  bonds.back().reset_tgt_offset(tgt_offset);\n  return bonds.back().id();\n}\n\nvoid Unitcell::reset(const std::vector<Site>& new_sites, const std::vector<Bond>& new_bonds)\n{\n  sites.clear();\n  bonds.clear();\n  sites = new_sites;\n  bonds = new_bonds;\n  for (unsigned i=0; i<sites.size(); ++i) {\n    sites[i].reset_bravindex(Vector3i(0,0,0));\n    sites[i].reset_cell_coord(Vector3d(0.0,0.0,0.0));\n  }\n  for (unsigned i=0; i<bonds.size(); ++i) bonds[i].reset_bravindex(Vector3i(0,0,0));\n}\n\nvoid Unitcell::translate_by(const Vector3i& bravindex_offset, const int& cell_id_offset) \n{\n  Vector3d coord_offset = bravindex_offset(0) * a1 + bravindex_offset(1) * a2 \n                        + bravindex_offset(2) * a3;\n  int id_offset = cell_id_offset * sites.size();\n  for (unsigned i=0; i<sites.size(); ++i) sites[i].translate_by(id_offset, bravindex_offset, coord_offset);\n  for (unsigned i=0; i<bonds.size(); ++i) bonds[i].translate_by(bravindex_offset);\n  bravindex_ += bravindex_offset;\n  coord_ += coord_offset;\n}\n\nvoid Unitcell::rotate_by(const Eigen::Matrix3d& matrix)\n{\n  // rotate the basis vectors\n  a1 = matrix * a1;\n  a2 = matrix * a2;\n  a3 = matrix * a3;\n  // rotate site coordinates\n  Vector3d rv;\n  for (unsigned i=0; i<sites.size(); ++i) {\n    rv = matrix * sites[i].coord();\n    sites[i].reset_coord(rv);\n  }\n}\n\n/*---------------'Lattice' class methods-----------------*/\nboundary_type Lattice::boundary_condition(std::string& bc) const\n{\n  boost::to_upper(bc);\n  if (bc==\"OPEN\") {\n    return boundary_type::open;\n  } \n  else if (bc==\"PERIODIC\") {\n    return boundary_type::periodic;\n  }\n  else if (bc==\"ANTIPERIODIC\") {\n    return boundary_type::antiperiodic;\n  }\n  else {\n    throw std::range_error(\"error: latticelibrary: invalid boundary condition\");\n  }\n}\n\nVector3i Lattice::get_next_bravindex(const Vector3i& current_index) const\n{\n  /* Returns the next Bravais lattice index. \n  ! Index for first unit cell = (0,0,0)\n  ! Index for last unit cell = (N1-1, N2-1, N3-1)\n   */\n  Vector3i next_index = current_index;\n  if (++next_index[0] >= static_cast<int>(extent[dim1].size)) {\n    next_index[0] = 0;\n    if (++next_index[1] >= static_cast<int>(extent[dim2].size)) {\n      next_index[1] = 0;\n      if (++next_index[2] >= static_cast<int>(extent[dim3].size)) {\n        next_index[2] = 0;\n      }\n    }\n  }\n  return next_index;\n}\n\nUnitcell Lattice::get_translated_cell(const Vector3i& bravindex_offset) const\n{\n  Unitcell newcell(unitcell);\n  int cell_id_offset = bravindex_offset[0] + bravindex_offset[1] * extent[dim1].size \n                     + bravindex_offset[2] * num_layer_cells;\n  newcell.translate_by(bravindex_offset, cell_id_offset);\n  return newcell;\n}\n\nbool Lattice::connect_bond(Bond& bond) const\n{\n  // source site\n  Vector3i src_cell, src_offset;\n  src_offset = bond.src_offset();\n  src_cell = bond.bravindex() + src_offset;\n  // if the source is inside the lattice, offset = 0\n  for (unsigned dim=dim1; dim<=dim3; ++dim) {\n    if (src_cell[dim]>=0 && src_cell[dim]<static_cast<int>(extent[dim].size)) src_offset[dim]=0;\n  }\n  // id of the source site\n  src_cell = boundary_wrap(src_cell);\n  int src_id = mapped_site_id(bond.src_id(), src_cell);\n  if (src_id < 0) return false;  // bond can't be connected due to open boundary\n\n  // target site\n  Vector3i tgt_cell, tgt_offset;\n  tgt_offset = bond.tgt_offset();\n  tgt_cell = bond.bravindex() + tgt_offset;\n  // if the target is inside the lattice, offset = 0\n  for (unsigned dim=dim1; dim<=dim3; ++dim) {\n    if (tgt_cell[dim]>=0 && tgt_cell[dim]<static_cast<int>(extent[dim].size)) tgt_offset[dim]=0;\n  }\n  // id of the target site\n  tgt_cell = boundary_wrap(tgt_cell);\n  int tgt_id = mapped_site_id(bond.tgt_id(), tgt_cell);\n  if (tgt_id < 0) return false;  // bond can't be connected due to open boundary\n\n  // connect the bond\n  bond.connect(src_id, src_offset, tgt_id, tgt_offset);\n  return true;\n}\n\nVector3i Lattice::boundary_wrap(const Vector3i& cell_idx) const\n{\n  Vector3i new_idx(cell_idx);\n  for (unsigned dim=dim1; dim<=dim3; ++dim) {\n    if (new_idx[dim]<0 || new_idx[dim]>=static_cast<int>(extent[dim].size)) {\n      if (extent[dim].bc == boundary_type::periodic) {\n        new_idx[dim] = new_idx[dim] % extent[dim].size;\n        if (new_idx[dim]<0) new_idx[dim] += static_cast<int>(extent[dim].size);\n      } \n      else new_idx[dim] = -1;\n    }\n  }\n  return new_idx;\n}\n\nint Lattice::mapped_site_id(const unsigned& local_id, const Vector3i& bravindex) const\n{\n  int cell_id = bravindex[0] + bravindex[1] * extent[dim1].size + bravindex[2] * num_layer_cells;\n  if (cell_id < 0) return -1;\n  return (static_cast<int>(local_id) + cell_id * unitcell.num_site());\n}\n\n\nEigen::Matrix3d Lattice::rotation_matrix(const Vector3d& r, const Vector3d& rp)\n{\n  /* Calculates rotation matrix which would rotate vector 'r' \n  ! to align it to common origin vector 'rp'. Rotation axis is \n  ! along 'rp x r'. For the formula used to calculate the matrix,\n  ! see H. Goldstein, Classical Mechanics, Eq. 4-92 through 4-96. \n  */\n\n  double e1 = sqrt(r.dot(r));\n  double e2 = sqrt(rp.dot(rp));\n  double phi = acos(r.dot(rp))/(e1*e2);\n  if (abs(phi) < dp_tol) return Eigen::Matrix<double,3,3>::Identity();\n\n  // unit vector perpendicular to 'rp' and 'r' along \\vec{r'} x \\vec{r}\n  Vector3d nhat = rp.cross(r);\n  nhat = nhat/sqrt(nhat.dot(nhat));\n\n  // the 'e' parameters\n  double e0, e3;\n  phi = phi*0.50;\n  e0 = cos(phi); e1 = nhat(1)*sin(phi); e2 = nhat(2)*sin(phi); e3 = nhat(3)*sin(phi);\n\n  // the rotation matrix\n  Eigen::Matrix3d mat;\n  mat(1,1) = e0*e0 + e1*e1 - e2*e2 - e3*e3;\n  mat(1,2) = 2.0*(e1*e2 + e0*e3);\n  mat(1,3) = 2.0*(e1*e3 - e0*e2);\n\n  mat(2,1) = 2.0*(e1*e2 - e0*e3);\n  mat(2,2) = e0*e0 - e1*e1 + e2*e2 - e3*e3;\n  mat(2,3) = 2.0*(e2*e3 + e0*e1);\n\n  mat(3,1) = 2.0*(e1*e3 + e0*e2);\n  mat(3,2) = 2.0*(e2*e3 - e0*e1);\n  mat(3,3) = e0*e0 - e1*e1 - e2*e2 + e3*e3;\n\n  return mat;\n}\n\n\n\n} // end namespace lattice\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+			"file": "lattice/lattice.cc",
+			"file_size": 11394,
+			"file_write_time": 1456167386000000,
+			"settings":
+			{
+				"buffer_size": 11394,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "/*---------------------------------------------------------------------------\n* Copyright (C) 2015-2016 by Amal Medhi <amedhi@iisertvm.ac.in>.\n* All rights reserved.\n* Date:   2016-01-17 21:32:15\n* Last Modified by:   Amal Medhi, amedhi@macbook\n* Last Modified time: 2016-02-23 00:08:00\n*----------------------------------------------------------------------------*/\n#include <stdexcept>\n#include <iomanip>\n#include \"lattice.h\"\n\nnamespace lattice {\n\n// define the lattice\nint Lattice::define(void) \n{\n  using pos = Eigen::Vector3i;\n  using vector = Eigen::Vector3d;\n  unsigned type, site, ngb, src, tgt;\n  vector a1, a2, a3, coord;\n  pos src_offset, tgt_offset;\n\n  /*------------- 'SQUARE' lattice--------------*/\n  if (name == \"SQUARE\") {\n    // type\n    id = lattice_type::SQUARE;\n    extent[dim3] = Extent{1, boundary_type::open, boundary_type::open};\n\n    // basis vectors\n    unitcell.set_basis(a1=vector(1.0, 0.0, 0.0), a2=vector(0.0, 1.0, 0.0), a3=vector(0.0, 0.0, 0.0));\n\n    // add sites\n    unitcell.add_site(type=1, site=1, coord=vector(0.0, 0.0, 0.0));\n\n    // add bonds\n    unitcell.add_bond(type=1, ngb=1, src=1, src_offset=pos(0,0,0), tgt=1, tgt_offset=pos(1,0,0));\n    unitcell.add_bond(type=1, ngb=1, src=1, src_offset=pos(0,0,0), tgt=1, tgt_offset=pos(0,1,0));\n  }\n\n  /*------------- 'CHAIN' lattice--------------*/\n  else if (name == \"CHAIN\") {\n    id = lattice_type::CHAIN;\n    extent[dim2] = Extent{0, boundary_type::open, boundary_type::open};\n    extent[dim3] = Extent{0, boundary_type::open, boundary_type::open};\n  }\n\n  /*------------- undefined lattice--------------*/\n  else {\n    throw std::range_error(\"error: latticelibrary: undefined lattice\");\n  }\n  return 0;\n}\n\n// read lattice parameters\nint Lattice::construct(const input::Parameters& parms) \n{\n\n  int info;\n  // name\n  name = parms.set_value(\"lattice\", \"NULL\");\n  boost::to_upper(name);\n\n  // sizes\n  for (unsigned dim=dim1; dim<=dim3; ++dim) {\n    std::string lsize = \"lsize\" + std::to_string(dim+1);\n    extent[dim].size = parms.set_value(lsize, 1, info);\n    if (extent[dim].size<1) throw std::range_error(\"error: latticelibrary: invalid lattice size\");\n  }\n\n  // boundary conditions\n  std::string bc; \n  for (unsigned dim=dim1; dim<=dim3; ++dim) {\n    std::string lbc = \"bc\" + std::to_string(dim+1);\n    bc = parms.set_value(lbc, \"periodic\", info);\n    extent[dim].periodicity = boundary_condition(bc);\n    extent[dim].bc = extent[dim].periodicity;\n    if (extent[dim].bc == boundary_type::antiperiodic) extent[dim].bc = boundary_type::periodic;\n  }\n\n  // empty unitcell\n  unitcell.clear();\n\n  define();\n  finalize();\n\n  return 0;\n}\n\nint Lattice::finalize(void) \n{\n  /* Construct 'symmetrized' lattice definition */\n\n  // copy the user set dimensions\n  for (unsigned dim=dim1; dim<=dim3; ++dim) copy_extent[dim] = extent[dim];\n\n  // initially, the 'dim' with periodic bc has size = 1\n  int ldim = 0;\n  Vector3d bvec;\n  for (unsigned dim=dim1; dim<=dim3; ++dim) {\n    if (extent[dim].bc==boundary_type::periodic) {\n      extent[dim].size = 1;\n      switch (dim) {\n        case dim1: bvec = unitcell.vector_a1();\n        case dim2: bvec = unitcell.vector_a2();\n        case dim3: bvec = unitcell.vector_a3();\n      }\n      ldim++;\n    }\n  }\n  // if 1 dimensional lattice, rotate the lattice to align 'bvec' along x-direction\n  if (ldim == 1) {\n    // rotation matrix to do that\n    Eigen::Matrix3d matrix = rotation_matrix(bvec, Vector3d(1.0, 0.0, 0.0));\n    // rotate the unitcell\n    unitcell.rotate_by(matrix);\n  }\n\n  // number of unit cells\n  num_layer_cells = extent[dim1].size * extent[dim2].size;\n  num_total_cells = num_layer_cells * extent[dim3].size;\n\n  // Add the sites & the bonds in the symmetrized unitcell\n  std::vector<Site> sites;\n  std::vector<Bond> bonds;\n  Vector3i src_cell, tgt_cell, src_offset, tgt_offset;\n  Unitcell translated_cell;\n  Vector3i bravindex(0,0,0);\n  for (unsigned i=0; i<num_total_cells; ++i) {\n    translated_cell = get_translated_cell(bravindex);\n    // collect the sites\n    for (unsigned n=0; n<translated_cell.num_site(); ++n) sites.push_back(translated_cell.site(n));\n    // collect the bonds\n    for (unsigned n=0; n<translated_cell.num_bond(); ++n) {\n      Bond b = translated_cell.bond(n);\n      if (connect_bond(b)) bonds.push_back(b);\n    }\n    bravindex = get_next_bravindex(bravindex);\n  }\n\n  // Replace the old lists\n  unitcell.reset(sites, bonds);\n\n  // extent & basis vectors of the symmetrized lattice\n  for (unsigned dim=dim1; dim<=dim3; ++dim) {\n    extent[dim] = copy_extent[dim];\n    if (extent[dim].bc != boundary_type::periodic) {\n      extent[dim].size = 1;\n      switch (dim) {\n        case dim1: unitcell.reset_a1(Vector3d(0.0,0.0,0.0));\n        case dim2: unitcell.reset_a2(Vector3d(0.0,0.0,0.0));\n        case dim3: unitcell.reset_a3(Vector3d(0.0,0.0,0.0));\n      }\n    }\n  }\n\n  // number of unit cells\n  num_layer_cells = extent[dim1].size * extent[dim2].size;\n  num_total_cells = num_layer_cells * extent[dim3].size;\n\n  // check\n  /*std::cout << \"------Sites-------\\n\";\n  for (unsigned i=0; i<unitcell.num_site(); ++i) {\n    std::cout << unitcell.site(i) << std::endl;\n  }\n  std::cout << \"------Bonds-------\\n\";\n  for (unsigned i=0; i<unitcell.num_bond(); ++i) {\n    std::cout << unitcell.bond(i) << std::endl;\n  }*/\n\n\n  return 0;\n}\n\n\n\n\n\n\n} // end namespace lattice\n",
+			"file": "lattice/latticelibrary.cc",
+			"file_size": 5361,
+			"file_write_time": 1456166280000000,
+			"settings":
+			{
+				"buffer_size": 5323,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "latticelibrary.f90",
+			"settings":
+			{
+				"buffer_size": 25204,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "latticegraph.f90",
+			"settings":
+			{
+				"buffer_size": 60582,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mytask.h",
+			"settings":
+			{
+				"buffer_size": 1304,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scheduler/inputparams.cc",
+			"settings":
+			{
+				"buffer_size": 12227,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Build: Run"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"use",
+				"Preferences: Settings - User"
+			],
+			[
+				":n ",
+				"File: New View into File"
+			],
+			[
+				"Pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				":q",
+				"Set Syntax: SQL"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 167.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/amedhi/projects/codes/framework/src/scheduler/task.cc",
+		"/Users/amedhi/projects/codes/framework/src/scheduler/cmdargs.cc",
+		"/Users/amedhi/projects/codes/framework/src/scheduler/inputparams.h",
+		"/Users/amedhi/projects/codes/framework/src/mytask.h",
+		"/Users/amedhi/projects/codes/framework/src/scheduler/taskparams.cc",
+		"/Users/amedhi/projects/codes/framework/src/scheduler/inputparams.cc",
+		"/Users/amedhi/projects/codes/framework/src/latticelibrary.f90",
+		"/Users/amedhi/projects/codes/framework/src/lattice/latticelibrary.cc",
+		"/Users/amedhi/projects/codes/framework/src/lattice/lattice.cc",
+		"/Users/amedhi/projects/codes/framework/src/latticelibrary.cc",
+		"/Users/amedhi/projects/codes/framework/src/latticelibrary.h",
+		"/Users/amedhi/projects/codes/framework/src/scheduler/scheduler.h",
+		"/Users/amedhi/projects/codes/framework/src/scheduler/cmdargs.h",
+		"/Users/amedhi/projects/codes/framework/src/scheduler/task.h",
+		"/Users/amedhi/projects/codes/framework/src/main.cc",
+		"/Users/amedhi/projects/Baskaran/Hubbard_FMSC/code/pairfunc.f90",
+		"/Users/amedhi/projects/codes/dmrg/Resources/tutorials/02-heischain/heischain.cc",
+		"/Users/amedhi/projects/codes/dmrg/src/main.cc",
+		"/Users/amedhi/projects/codes/dmrg/src/alps_dmtk/dmtk.h",
+		"/Users/amedhi/projects/codes/dmrg/src/scheduler/inputparams.h",
+		"/Users/amedhi/projects/codes/dmrg/src/dmtk/qn.h",
+		"/Users/amedhi/projects/codes/dmrg/src/scheduler/scheduler.cc",
+		"/Users/amedhi/projects/codes/dmrg/src/scheduler/inputparams.cc",
+		"/Users/amedhi/projects/codes/dmrg/src/scheduler/taskparams.cc",
+		"/Users/amedhi/projects/codes/dmrg/src/scheduler/task.h",
+		"/Users/amedhi/projects/codes/dmrg/src/scheduler/master_scheduler.cc",
+		"/Users/amedhi/projects/codes/dmrg/src/scheduler/scheduler.h",
+		"/Users/amedhi/projects/codes/dmrg/src/dmrg.h",
+		"/Users/amedhi/projects/codes/dmrg/src/scheduler/task.cc",
+		"/Users/amedhi/projects/codes/dmrg/src/simple_task.h",
+		"/Users/amedhi/projects/codes/dmrg/src/scheduler/cmdargs.h",
+		"/Users/amedhi/projects/codes/dmrg/src/scheduler/cmdargs.cc",
+		"/Users/amedhi/projects/codes/dmrg/src/simple_factory.cc",
+		"/Users/amedhi/projects/codes/dmrg/src/simple_factory.h",
+		"/Users/amedhi/projects/codes/vmc_3.0/src/scheduler/simulation.f90",
+		"/Users/amedhi/projects/codes/dmrg/src/scheduler/factory.h",
+		"/Users/amedhi/projects/codes/dmrg/src/scheduler/factory.cc",
+		"/Users/amedhi/projects/codes/dmrg/src/factory.cc",
+		"/Users/amedhi/projects/codes/dmrg/src/scheduler/input_params.h",
+		"/Users/amedhi/projects/codes/dmrg/src/scheduler/input_params.cc",
+		"/Users/amedhi/projects/codes/dmrg/src/scheduler/jobparams.h",
+		"/Users/amedhi/projects/codes/dmrg/src/scheduler/jobparams.cc",
+		"/Users/amedhi/projects/codes/dmrg/src/scheduler/optionparser.h",
+		"/Users/amedhi/iisertvm/Courses/2015/phy4102/LectureNotes/mc_program/ErrorAnalysis/lec_error_analysis_phy4102.tex",
+		"/Users/amedhi/iisertvm/Courses/2015/phy4102/LectureNotes/mc_program/level_02/mc_ising.cc",
+		"/Users/amedhi/iisertvm/Courses/2015/phy4102/LectureNotes/mc_program/level_01/mc_ising.cc",
+		"/Users/amedhi/projects/Munima/classical_mc/src/copy_17Sep2015_latticelibrary.f90",
+		"/Users/amedhi/projects/Munima/classical_mc/src/modellibrary.f90",
+		"/Users/amedhi/projects/Munima/classical_mc/src/latticegraph.f90",
+		"/Users/amedhi/projects/Munima/classical_mc/src/copy_17Sep2015_latticegraph.f90",
+		"/Users/amedhi/projects/Munima/classical_mc/src/latticelibrary.f90",
+		"/Users/amedhi/projects/Munima/classical_mc/src/phyobs.f90",
+		"/Users/amedhi/projects/Munima/classical_mc/src/config.f90",
+		"/Users/amedhi/projects/Munima/classical_mc/src/outfile.f90",
+		"/Users/amedhi/projects/Munima/classical_mc/src/scheduler/taskparm.f90",
+		"/Users/amedhi/projects/Munima/classical_mc/src/utils.f90",
+		"/Users/amedhi/projects/Munima/classical_mc/src/constants.f90",
+		"/Users/amedhi/projects/Munima/classical_mc/src/modellibrary_copy.f90",
+		"/Users/amedhi/projects/Munima/classical_mc/src/scheduler/simulation.f90",
+		"/Users/amedhi/projects/Munima/classical_mc/src/mcworker.f90",
+		"/Users/amedhi/projects/Munima/classical_mc/src/scheduler/masterscheduler.f90",
+		"/Users/amedhi/projects/Munima/classical_mc/src/scheduler/scheduler.f90",
+		"/Users/amedhi/projects/Munima/classical_mc/src/scheduler/jobparm.f90",
+		"/Users/amedhi/projects/Munima/classical_mc/src/scheduler/slavescheduler.f90",
+		"/Users/amedhi/projects/Munima/classical_mc/src/montecarlo.f90",
+		"/Users/amedhi/projects/Munima/classical_mc/src/scheduler/message_passing.f90",
+		"/Users/amedhi/projects/Munima/classical_mc/src/mcbin/databin.f90",
+		"/Users/amedhi/projects/Munima/classical_mc/src/mcbin/mcdata.f90",
+		"/Users/amedhi/projects/Munima/classical_mc/src/main.f90",
+		"/Users/amedhi/projects/Munima/classical_mc/src/observableset.f90",
+		"/Users/amedhi/projects/Munima/classical_mc/src/global_objects.f90",
+		"/Users/amedhi/projects/Munima/classical_mc/src/scheduler/cmdarg.f90",
+		"/Users/amedhi/projects/Munima/classical_mc/src/errstat.f90",
+		"/Users/amedhi/projects/Munima/classical_mc/src/modellibrary_save.f90",
+		"/Users/amedhi/projects/Munima/classical_mc/src/blochbasis.f90",
+		"/Users/amedhi/projects/Munima/classical_mc/src/evaluate.f90",
+		"/Users/amedhi/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/amedhi/Library/Application Support/Sublime Text 2/Packages/User/MinimalFortran.sublime-settings",
+		"/Users/amedhi/projects/Munima/classical_mc/src/mc_simulation.f90",
+		"/Users/amedhi/projects/Munima/classical_mc/src/classical-mc.sublime-project",
+		"/Users/amedhi/projects/Munima/classical_mc/src/run",
+		"/Users/amedhi/projects/Munima/classical_mc/src/work-mc.sublime-workspace",
+		"/Users/amedhi/projects/vmc/src/blochbasis.f90",
+		"/Users/amedhi/iisertvm/courses/phy322/html/index.html",
+		"/Users/amedhi/projects/vmc/src/fermisea.f90",
+		"/Users/amedhi/projects/vmc/src/errstat.f90",
+		"/Users/amedhi/projects/vmc/src/evaluate.f90",
+		"/Users/amedhi/projects/vmc/src/latticelibrary.f90",
+		"/Users/amedhi/projects/vmc/src/latticegraph.f90",
+		"/Users/amedhi/projects/vmc/src/constants.f90",
+		"/Users/amedhi/projects/vmc/src/eigensystem.f90",
+		"/Users/amedhi/projects/vmc/src/lancelot.f90",
+		"/Users/amedhi/projects/vmc/src/montecarlo.f90",
+		"/Users/amedhi/projects/vmc/src/main.f90",
+		"/Users/amedhi/projects/vmc/src/vmc.f90",
+		"/Users/amedhi/projects/vmc/src/Makefile",
+		"/Users/amedhi/projects/vmc/src/scheduler/masterscheduler.f90",
+		"/Users/amedhi/projects/vmc/src/variational.f90",
+		"/Users/amedhi/projects/vmc/src/scheduler/scheduler.f90",
+		"/Users/amedhi/projects/vmc/src/optimization.f90",
+		"/Users/amedhi/projects/vmc/src/vmc_header.f90",
+		"/Users/amedhi/projects/vmc/src/vmc.sublime-project",
+		"/Users/amedhi/projects/vmc/src/vim.sublime-build",
+		"/Users/amedhi/iisertvm/courses/phy111/tutorials/tut6/tut6.tex",
+		"/Users/amedhi/projects/vmc/src/vmc.sublime-workspace",
+		"/Users/amedhi/projects/vmc/src/cmdarg.mod",
+		"/Users/amedhi/iisertvm/Letters/Outbox/Director/softwares.tex",
+		"/Users/amedhi/iisertvm/courses/phy111/exams/endsem/phy111_endsem.tex",
+		"/Users/amedhi/iisertvm/courses/phy111/exams/endsem/sol_endsem_phy111.tex",
+		"/Users/amedhi/iisertvm/Letters/Outbox/Director/dir_2013.11_software.tex",
+		"/Users/amedhi/projects/vmc/src/config.f90",
+		"/Users/amedhi/iisertvm/courses/phy111/exams/endsem/phy111_endsem_SAVE.tex",
+		"/Users/amedhi/iisertvm/courses/phy111/tutorials/tut7/tut7.tex",
+		"/Users/amedhi/Library/Application Support/Sublime Text 2/Packages/User/Fortran - Modern.sublime-settings",
+		"/Users/amedhi/Library/Application Support/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/Users/amedhi/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/amedhi/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"rod",
+			"fd",
+			"ignored"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "lattice/lattice.h",
+					"settings":
+					{
+						"buffer_size": 7502,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3019,
+								3019
+							]
+						],
+						"settings":
+						{
+							"c_time": "cdatetime\ndatetime\np0\n(S'\\x07\\xe0\\x01\\x19\\x12\\x05\\x03\\x00\\x00\\x00'\np1\ntp2\nRp3\n.",
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1195.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "lattice/lattice.cc",
+					"settings":
+					{
+						"buffer_size": 11394,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								407,
+								407
+							]
+						],
+						"settings":
+						{
+							"c_time": "cdatetime\ndatetime\np0\n(S'\\x07\\xe0\\x01\\x19\\x12\\n\\x0e\\x00\\x00\\x00'\np1\ntp2\nRp3\n.",
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 172.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "lattice/latticelibrary.cc",
+					"settings":
+					{
+						"buffer_size": 5323,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								428,
+								428
+							]
+						],
+						"settings":
+						{
+							"c_time": "cdatetime\ndatetime\np0\n(S'\\x07\\xe0\\x01\\x19\\x12\\n\\x12\\x00\\x00\\x00'\np1\ntp2\nRp3\n.",
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "latticelibrary.f90",
+					"settings":
+					{
+						"buffer_size": 25204,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								20830,
+								20830
+							]
+						],
+						"settings":
+						{
+							"c_time": "cdatetime\ndatetime\np0\n(S'\\x07\\xe0\\x01\\x0c\\x0b%+\\x00\\x00\\x00'\np1\ntp2\nRp3\n.",
+							"syntax": "Packages/Fortran/fortran.tmbundle-master/Syntaxes/Fortran - Modern.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "latticegraph.f90",
+					"settings":
+					{
+						"buffer_size": 60582,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								42260,
+								42260
+							]
+						],
+						"settings":
+						{
+							"c_time": "cdatetime\ndatetime\np0\n(S'\\x07\\xe0\\x01\\x19\\x17\\t)\\x00\\x00\\x00'\np1\ntp2\nRp3\n.",
+							"syntax": "Packages/Fortran/fortran.tmbundle-master/Syntaxes/Fortran - Modern.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 17798.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "mytask.h",
+					"settings":
+					{
+						"buffer_size": 1304,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								930,
+								930
+							]
+						],
+						"settings":
+						{
+							"c_time": "cdatetime\ndatetime\np0\n(S'\\x07\\xe0\\x01\\x19\\x17\\t\\x0f\\x00\\x00\\x00'\np1\ntp2\nRp3\n.",
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "scheduler/inputparams.cc",
+					"settings":
+					{
+						"buffer_size": 12227,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9483,
+								9483
+							]
+						],
+						"settings":
+						{
+							"c_time": "cdatetime\ndatetime\np0\n(S'\\x07\\xe0\\x01\\x08\\x0c\\x021\\x00\\x00\\x00'\np1\ntp2\nRp3\n.",
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5501.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 142.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"inp",
+				"scheduler/inputparams.cc"
+			],
+			[
+				"",
+				"scheduler/task.cc"
+			],
+			[
+				"my",
+				"mytask.h"
+			],
+			[
+				"latticeg",
+				"latticegraph.f90"
+			],
+			[
+				"cms",
+				"scheduler/cmdargs.cc"
+			],
+			[
+				"in",
+				"scheduler/inputparams.cc"
+			],
+			[
+				"inpu",
+				"scheduler/inputparams.cc"
+			],
+			[
+				"latt",
+				"latticelibrary.f90"
+			],
+			[
+				"latti",
+				"lattice/latticelibrary.cc"
+			],
+			[
+				"la",
+				"lattice/lattice.cc"
+			],
+			[
+				"sche",
+				"scheduler/task.cc"
+			],
+			[
+				"cm",
+				"scheduler/cmdargs.h"
+			],
+			[
+				"ta",
+				"scheduler/task.h"
+			],
+			[
+				"sc",
+				"scheduler/taskparams.cc"
+			],
+			[
+				"mai",
+				"main.cc"
+			],
+			[
+				"ma",
+				"main.cc"
+			],
+			[
+				"dm",
+				"alps_dmtk/dmtk.h"
+			],
+			[
+				"qn",
+				"dmtk/qn.h"
+			],
+			[
+				"dmr",
+				"dmrg.h"
+			],
+			[
+				"task",
+				"scheduler/taskparams.cc"
+			],
+			[
+				"sim",
+				"simple_task.h"
+			],
+			[
+				"cmd",
+				"scheduler/cmdargs.h"
+			],
+			[
+				"cmdar",
+				"scheduler/cmdargs.cc"
+			],
+			[
+				"maste",
+				"scheduler/master_scheduler.cc"
+			],
+			[
+				"fact",
+				"scheduler/factory.h"
+			],
+			[
+				"fac",
+				"scheduler/factory.cc"
+			],
+			[
+				"inputpa",
+				"scheduler/inputparams.h"
+			],
+			[
+				"op",
+				"scheduler/optionparser.h"
+			],
+			[
+				"jo",
+				"scheduler/jobparams.cc"
+			],
+			[
+				"job",
+				"scheduler/jobparams.cc"
+			],
+			[
+				"jop",
+				"scheduler/jobparams.h"
+			],
+			[
+				"lattice",
+				"latticegraph.f90"
+			],
+			[
+				"cop",
+				"copy_17Sep2015_latticelibrary.f90"
+			],
+			[
+				"mode",
+				"modellibrary.f90"
+			],
+			[
+				"copy",
+				"copy_17Sep2015_latticelibrary.f90"
+			],
+			[
+				"conf",
+				"config.f90"
+			],
+			[
+				"phy",
+				"phyobs.f90"
+			],
+			[
+				"out",
+				"outfile.f90"
+			],
+			[
+				"mc",
+				"mcworker.f90"
+			],
+			[
+				"model",
+				"modellibrary.f90"
+			],
+			[
+				"ut",
+				"utils.f90"
+			],
+			[
+				"cons",
+				"constants.f90"
+			],
+			[
+				"mo",
+				"modellibrary.f90"
+			],
+			[
+				"mas",
+				"scheduler/masterscheduler.f90"
+			],
+			[
+				"uti",
+				"utils.f90"
+			],
+			[
+				"mast",
+				"scheduler/masterscheduler.f90"
+			],
+			[
+				"sla",
+				"scheduler/slavescheduler.f90"
+			],
+			[
+				"mon",
+				"montecarlo.f90"
+			],
+			[
+				"mcr",
+				"mcworker.f90"
+			],
+			[
+				"mone",
+				"montecarlo.f90"
+			],
+			[
+				"da",
+				"mcbin/databin.f90"
+			],
+			[
+				"mcd",
+				"mcbin/mcdata.f90"
+			],
+			[
+				"mess",
+				"scheduler/message_passing.f90"
+			],
+			[
+				"data",
+				"mcbin/databin.f90"
+			],
+			[
+				"si",
+				"scheduler/simulation.f90"
+			],
+			[
+				"mes",
+				"scheduler/message_passing.f90"
+			],
+			[
+				"monte",
+				"montecarlo.f90"
+			],
+			[
+				"fil",
+				"outfile.f90"
+			],
+			[
+				"outfile",
+				"outfile.f90"
+			],
+			[
+				"obse",
+				"observableset.f90"
+			],
+			[
+				"me",
+				"scheduler/message_passing.f90"
+			],
+			[
+				"glo",
+				"global_objects.f90"
+			],
+			[
+				"mont",
+				"montecarlo.f90"
+			],
+			[
+				"outf",
+				"outfile.f90"
+			],
+			[
+				"globa",
+				"global_objects.f90"
+			],
+			[
+				"ou",
+				"outfile.f90"
+			],
+			[
+				"confi",
+				"config.f90"
+			],
+			[
+				"simu",
+				"scheduler/simulation.f90"
+			],
+			[
+				"ob",
+				"observableset.f90"
+			],
+			[
+				"obs",
+				"observableset.f90"
+			],
+			[
+				"jobp",
+				"scheduler/jobparm.f90"
+			],
+			[
+				"taskp",
+				"scheduler/taskparm.f90"
+			],
+			[
+				"ph",
+				"phyobs.f90"
+			],
+			[
+				"err",
+				"errstat.f90"
+			],
+			[
+				"mod",
+				"modellibrary_save.f90"
+			],
+			[
+				"con",
+				"config.f90"
+			],
+			[
+				"co",
+				"config.f90"
+			],
+			[
+				"c",
+				"config.f90"
+			],
+			[
+				"mcwor",
+				"mcworker.f90"
+			],
+			[
+				"mcw",
+				"mcworker.f90"
+			],
+			[
+				"mcwo",
+				"mcworker.f90"
+			],
+			[
+				"mcdata",
+				"mcbin/mcdata.f90"
+			],
+			[
+				"eva",
+				"evaluate.f90"
+			],
+			[
+				"main",
+				"main.f90"
+			],
+			[
+				"config",
+				"config.f90"
+			],
+			[
+				"mc_s",
+				"mc_simulation.f90"
+			],
+			[
+				"sub",
+				"classical-mc.sublime-project"
+			],
+			[
+				"run",
+				"run"
+			],
+			[
+				"p",
+				"work-mc.sublime-workspace"
+			],
+			[
+				"vmc.f",
+				"vmc.f90"
+			],
+			[
+				"mak",
+				"Makefile"
+			],
+			[
+				"var",
+				"variational.f90"
+			],
+			[
+				"vmc_he",
+				"vmc_header.f90"
+			],
+			[
+				"opt",
+				"optimization.f90"
+			],
+			[
+				"vmc",
+				"vmc.sublime-project"
+			],
+			[
+				"blo",
+				"blochbasis.f90"
+			],
+			[
+				"bl",
+				"blochbasis.f90"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 149.0,
+	"status_bar_visible": true
+}

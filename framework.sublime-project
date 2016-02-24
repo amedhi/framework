@@ -1,0 +1,22 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Users/amedhi/projects/codes/framework/src",
+			"name": "Framework",
+			"file_exclude_patterns":[
+			 	"*.o",
+			 	"*.log",
+			 	"xout"
+			],
+			"folder_exclude_patterns":["galahad"]
+		}
+	],
+	"build_systems":
+	[
+		{
+			"cmd": ["make"],
+			"working_dir": "/Users/amedhi/projects/codes/framework/src"
+		}
+	]
+}
